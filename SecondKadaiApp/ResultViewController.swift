@@ -11,17 +11,16 @@ import UIKit
 class ResultViewController: UIViewController {
     
     @IBOutlet weak var name2: UILabel!
-    
+     var x:String?=nil
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+    
+    
+    name2.text="こんにちは\(x!)さん"
+    
     }
-    var x:String!=nil
-    
-    name2.text="こんにちは\(x)さん"
-    
-    
     
     
 
