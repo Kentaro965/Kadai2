@@ -15,6 +15,7 @@
 		D0567C9623D6D22D0099DA9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0567C9423D6D22D0099DA9F /* LaunchScreen.storyboard */; };
 		D0567CA123D6D22E0099DA9F /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0567CA023D6D22E0099DA9F /* SecondKadaiAppTests.swift */; };
 		D0567CAC23D6D22E0099DA9F /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0567CAB23D6D22E0099DA9F /* SecondKadaiAppUITests.swift */; };
+		D0567CBA23D6DA750099DA9F /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0567CB923D6DA750099DA9F /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D0567CA723D6D22E0099DA9F /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0567CAB23D6D22E0099DA9F /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		D0567CAD23D6D22E0099DA9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0567CB923D6DA750099DA9F /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D0567C8923D6D2220099DA9F /* AppDelegate.swift */,
 				D0567C8B23D6D2220099DA9F /* SceneDelegate.swift */,
 				D0567C8D23D6D2220099DA9F /* ViewController.swift */,
+				D0567CB923D6DA750099DA9F /* ResultViewController.swift */,
 				D0567C8F23D6D2220099DA9F /* Main.storyboard */,
 				D0567C9223D6D22D0099DA9F /* Assets.xcassets */,
 				D0567C9423D6D22D0099DA9F /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				D0567C8E23D6D2220099DA9F /* ViewController.swift in Sources */,
 				D0567C8A23D6D2220099DA9F /* AppDelegate.swift in Sources */,
 				D0567C8C23D6D2220099DA9F /* SceneDelegate.swift in Sources */,
+				D0567CBA23D6DA750099DA9F /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
